@@ -1,0 +1,7 @@
+#凡是以ignore结尾的文件，都是相应配置的忽略文件
+#例如eslintrc里面是eslint插件的应用内容，而eslintignore里面则是eslint插件需要忽略的内容。
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
